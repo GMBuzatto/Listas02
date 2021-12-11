@@ -1,0 +1,14 @@
+D:\Test\Listas02\Exercicios02\Exercicios02\bin\Debug\netcoreapp3.1\Exercicios02.exe
+D:\Test\Listas02\Exercicios02\Exercicios02\bin\Debug\netcoreapp3.1\Exercicios02.deps.json
+D:\Test\Listas02\Exercicios02\Exercicios02\bin\Debug\netcoreapp3.1\Exercicios02.runtimeconfig.json
+D:\Test\Listas02\Exercicios02\Exercicios02\bin\Debug\netcoreapp3.1\Exercicios02.runtimeconfig.dev.json
+D:\Test\Listas02\Exercicios02\Exercicios02\bin\Debug\netcoreapp3.1\Exercicios02.dll
+D:\Test\Listas02\Exercicios02\Exercicios02\bin\Debug\netcoreapp3.1\Exercicios02.pdb
+D:\Test\Listas02\Exercicios02\Exercicios02\obj\Debug\netcoreapp3.1\Exercicios02.csproj.AssemblyReference.cache
+D:\Test\Listas02\Exercicios02\Exercicios02\obj\Debug\netcoreapp3.1\Exercicios02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\Listas02\Exercicios02\Exercicios02\obj\Debug\netcoreapp3.1\Exercicios02.AssemblyInfoInputs.cache
+D:\Test\Listas02\Exercicios02\Exercicios02\obj\Debug\netcoreapp3.1\Exercicios02.AssemblyInfo.cs
+D:\Test\Listas02\Exercicios02\Exercicios02\obj\Debug\netcoreapp3.1\Exercicios02.csproj.CoreCompileInputs.cache
+D:\Test\Listas02\Exercicios02\Exercicios02\obj\Debug\netcoreapp3.1\Exercicios02.dll
+D:\Test\Listas02\Exercicios02\Exercicios02\obj\Debug\netcoreapp3.1\Exercicios02.pdb
+D:\Test\Listas02\Exercicios02\Exercicios02\obj\Debug\netcoreapp3.1\Exercicios02.genruntimeconfig.cache
